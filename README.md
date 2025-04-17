@@ -1,5 +1,5 @@
 # Vinicius-Souza
-# Vinicius Souza - Desenvolvedor Full Stack em Formação 👨‍💻
+# Vinicius Souza - Desenvolvedor Web em Formação 👨‍💻
 
 Olá! Eu sou Vinicius Souza, um entusiasta da tecnologia em transição de carreira para me tornar um **Desenvolvedor Full Stack**. Atualmente estou focado em dominar as principais tecnologias web e construir projetos significativos.
 ## 📊 Estatísticas do GitHub
